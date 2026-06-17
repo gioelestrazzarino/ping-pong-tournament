@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ping-pong-tournament/static/css/main.e3df2675.css",
+    "main.js": "/ping-pong-tournament/static/js/main.f40fb937.js",
+    "index.html": "/ping-pong-tournament/index.html",
+    "main.e3df2675.css.map": "/ping-pong-tournament/static/css/main.e3df2675.css.map",
+    "main.f40fb937.js.map": "/ping-pong-tournament/static/js/main.f40fb937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3df2675.css",
+    "static/js/main.f40fb937.js"
+  ]
+}
